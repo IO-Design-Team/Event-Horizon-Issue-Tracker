@@ -29,4 +29,4 @@ The URL Event Horizon will use to open the app
 
 </details>
 
-Failure to fill out all the above information will delay your request
+Failure to fill out all of the above information will delay your request
