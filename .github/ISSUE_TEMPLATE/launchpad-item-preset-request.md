@@ -18,7 +18,7 @@ The URL Event Horizon will use to open the app
 
 <details>
 
-<summary>How to find launch URLs/summary>
+<summary>How to find launch URLs</summary>
 
 1. Download an IPA of the app from [here](https://armconverter.com/decryptedappstore)
 2. Extract the IPA using an app like [Keka](https://www.keka.io)
