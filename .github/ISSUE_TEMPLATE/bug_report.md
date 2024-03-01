@@ -26,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Apple Vision (please complete the following information):**
  - Device: [e.g. Apple Vision Pro]
  - OS: [e.g. visionOS 1.0]
- - Version: [e.g. 22] (This can be found at the bottom of the settings page)
+ - Version: [e.g. 1.0 (1) 6097722] (Found on the bottom of the settings page. Tap the text to copy it.)
 
 **Additional context**
 Add any other context about the problem here.
